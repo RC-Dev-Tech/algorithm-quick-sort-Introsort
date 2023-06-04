@@ -32,7 +32,7 @@
 ---
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/algorithm-quick-sort-Introsort/blob/main/C%2B%2B/main.cpp) - Introsort(C++)
+- [Example](https://github.com/RC-Dev-Tech/algorithm-quick-sort-introsort/blob/main/C%2B%2B/main.cpp) - Introsort(C++)
 
 ---
 
