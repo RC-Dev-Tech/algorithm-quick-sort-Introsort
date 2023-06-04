@@ -55,7 +55,7 @@ void introsort(std::vector<int>& nums, int low, int high, int depthLimit) {
 int main() {
     std::vector<int> nums = {50, 90, 70, 20, 10, 30, 40, 60, 80};
 
-    //原始數列.
+    // 原始數列.
     std::cout << "Original array: ";
     for (int num : nums) {
         std::cout << num << " ";
